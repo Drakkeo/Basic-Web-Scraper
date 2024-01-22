@@ -16,7 +16,7 @@ This repository contains a basic web scraper written in Python using the `reques
 2. Navigate to the project directory:
 
     ```bash
-    cd seu-repositorio
+    cd Basic-Web-Scraper
     ```
 
 3. Install the required packages:
